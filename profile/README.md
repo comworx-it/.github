@@ -1,4 +1,8 @@
-## Hi there 👋
+## comworX-IT GmbH
+
+comworX-IT GmbH ist Ihr Ansprechpartner für alle Belange rund um die Themen Informationstechnik und Telekommunikation.
+Wir betreuen gewerbliche, öffentliche und private Kunden. Für jeden Kunden haben wir die passende Lösung!
+
 
 <!--
 
